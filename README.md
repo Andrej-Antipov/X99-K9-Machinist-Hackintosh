@@ -13,7 +13,8 @@ EFI Clover Folder and Workaround for Darkwake issue on X99 K9 Machinist mainboar
 
 ### Modes
 
-* Unlocked turbobust for all cpu thread
+* Unlocked turbobust for all cpu thread with S3TurboTool
 * Undervolting -50/-50 cpu/cache
+* flashed by afudos
 
 ### Mac OS Big Sur and Monterey config EFI
