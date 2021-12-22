@@ -1,7 +1,7 @@
 # X99-K9-Machinist-Hackintosh
 EFI Clover Folder and Workaround for Darkwake issue on X99 K9 Machinist mainboard for Mac OS. 
 
-* Hardware configuration:
+# Hardware configuration:
 * CPU: E5-2630v3 Haswell-EP
 * MB: X99 K9 v2 Machinist
 * Chipset: C216
@@ -11,5 +11,5 @@ EFI Clover Folder and Workaround for Darkwake issue on X99 K9 Machinist mainboar
 * WIFI/BT: bcm943602CS in PCI-e x4 adapter
 * BIOS: https://github.com/BIOS-iEngineer/MACHINIST-X99ZV102
 
-Unlocked turbobust for all cpu thread
-Mac OS Big Sur and Monterey config EFI
+* Unlocked turbobust for all cpu thread
+* Mac OS Big Sur and Monterey config EFI
