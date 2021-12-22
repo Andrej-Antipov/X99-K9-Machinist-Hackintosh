@@ -11,4 +11,4 @@ EFI Clover Folder and Workaround for Darkwake issue on X99 K9 Machinist mainboar
 * WIFI/BT: bcm943602CS in PCI-e x4 adapter
 * BIOS: https://github.com/BIOS-iEngineer/MACHINIST-X99ZV102
 
-Unlock turbobust for all cpu thread
+Unlocked turbobust for all cpu thread
