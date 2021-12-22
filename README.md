@@ -6,7 +6,7 @@ EFI Clover Folder and Workaround for Darkwake issue on X99 K9 Machinist mainboar
 * MB: X99 K9 v2 Machinist
 * Chipset: C216
 * RAM: 3x8Gb DDR4 2666 Crucial Desktop
-* GPU: Radeon HD7770 1Gb Verde
+* GPU: Radeon HD7770 1Gb (UEFI GOP VBIOS MODE)
 * SSD: 512Gb Kingstone KC2500 NVME M2
 * WIFI/BT: bcm943602CS in PCI-e x4 adapter
 * BIOS: https://github.com/BIOS-iEngineer/MACHINIST-X99ZV102
