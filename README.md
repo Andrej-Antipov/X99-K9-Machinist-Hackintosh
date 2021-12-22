@@ -12,3 +12,4 @@ EFI Clover Folder and Workaround for Darkwake issue on X99 K9 Machinist mainboar
 * BIOS: https://github.com/BIOS-iEngineer/MACHINIST-X99ZV102
 
 Unlocked turbobust for all cpu thread
+Mac OS Big Sur and Monterey config EFI
