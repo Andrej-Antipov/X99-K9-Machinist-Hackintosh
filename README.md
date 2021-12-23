@@ -21,3 +21,4 @@ EFI Clover Folder and Workaround for Darkwake issue on X99 K9 Machinist mainboar
 
 * All mac os futures are working including DRM playback and sleep/wake S3
 * Darkwake HID issue fixed with WakeUpScr applet. 
+* Monterey Bluetooth wake issue fixed with WakeUpScr applet.
