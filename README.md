@@ -16,7 +16,7 @@ EFI Clover Folder and Workaround for Darkwake issue on X99 K9 Machinist mainboar
 * Unlocked turbobust for all cpu thread with S3TurboTool
 * Undervolting -50/-50 cpu/cache
 * flashed by afudos
-* BIOS: XHCI set to SmartAuto
+* BIOS setup: XHCI set to SmartAuto
 
 ### Mac OS Big Sur and Monterey config EFI
 
