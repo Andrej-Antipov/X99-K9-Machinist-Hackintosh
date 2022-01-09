@@ -13,6 +13,7 @@ EFI Clover and OpenCore Folders and Workaround for Darkwake issue on X99 K9 Mach
 
 ### Modes
 
+* Fixed SmartFAN issue after wake with Ultimate Patcher Tool
 * Unlocked turbobust for all cpu thread with S3TurboTool
 * Undervolting -40/-40 cpu/cache
 * flashed by afudos
