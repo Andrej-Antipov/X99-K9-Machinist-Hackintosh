@@ -2,7 +2,7 @@
 EFI Clover and OpenCore Folders and Workaround for Darkwake issue on X99 K9 Machinist mainboard for Mac OS. 
 
 ## Hardware configuration:
-* CPU: E5-2630v3 Haswell-EP
+* CPU: E5-2666v3 Haswell-EP
 * MB: X99 K9 v2 Machinist
 * Chipset: C216
 * RAM: 3x8Gb DDR4 2666 Crucial Desktop
