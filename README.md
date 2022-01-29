@@ -29,4 +29,4 @@ EFI Clover and OpenCore Folders and Workaround for Darkwake issue on X99 K9 Mach
 * Darkwake HID issue fixed with WakeUpScr applet. 
 * Monterey Bluetooth wake issue fixed with WakeUpScr applet.
 * Darkwake, Bluetooth, PMDrvr.kext wake issue fixed with WakeUpWithPMDrvr
-* AGPMIjector.kext has to be match your GPU https://github.com/Pavo-IM/AGPMInjector/releases
+* AGPMIjector.kext has to match your GPU https://github.com/Pavo-IM/AGPMInjector/releases
