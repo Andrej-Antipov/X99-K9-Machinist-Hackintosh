@@ -8,7 +8,7 @@ EFI Clover and OpenCore Folders and Workaround for Darkwake issue on X99 K9 Mach
 * RAM: 4x8Gb DDR4 2666 Crucial Desktop
 * GPU: Radeon RX 560 Sapphire Pulse 4Gb
 * SSD: 512Gb Kingstone KC2500 NVME M2
-* WIFI/BT: bcm943602CS in PCI-e x4 adapter
+* WIFI/BT: bcm943602CS in M2 A/E keys NGFF adapter
 * BIOS: https://github.com/BIOS-iEngineer/MACHINIST-X99ZV102
 
 ### Modes
@@ -28,5 +28,5 @@ EFI Clover and OpenCore Folders and Workaround for Darkwake issue on X99 K9 Mach
 * All mac os futures are working including DRM playback and sleep/wake S3
 * Darkwake HID issue fixed with WakeUpScr applet. 
 * Monterey Bluetooth wake issue fixed with WakeUpScr applet.
-* Darkwake, Bluetooth, PMDrvr.kext wake issue fixed with WakeUpWithPMDrvr
+* Darkwake, Bluetooth, PMDrvr.kext wake issue fixed with WakeUpWithPMDrvr (PMDrvr_X99K9_ManageSet)
 * AGPMIjector.kext has to match your GPU https://github.com/Pavo-IM/AGPMInjector/releases
