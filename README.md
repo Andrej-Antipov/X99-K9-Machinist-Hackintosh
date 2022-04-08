@@ -1,5 +1,5 @@
 # X99-K9-Machinist-Hackintosh
-EFI Clover and OpenCore Folders and Workaround for Darkwake and issue on X99 K9 Machinist mainboard for Mac OS. Also workaround for sleep/wake with PMDrvr.kext (better speedstep driver) on the latest mac os (Big Sur and Monterey). Bluetooth hang on wake fixed also.
+EFI Clover and OpenCore Folders and Workaround for Darkwake and issue on X99 K9 Machinist mainboard for Mac OS. Also workaround for sleep/wake with PMDrvr.kext (better speedstep driver) on the latest mac os (Big Sur and Monterey). Bluetooth hang on after wake fixed also.
 
 ## Hardware configuration:
 * CPU: E5-2666v3 Haswell-EP
