@@ -10,11 +10,12 @@ EFI Clover and OpenCore Folders and Workaround for Darkwake issue on X99 K9 Mach
 * SSD: 512Gb Kingstone KC2500 NVME M2
 * WIFI/BT: bcm943602CS in M2 A/E keys NGFF adapter
 * BIOS: https://github.com/BIOS-iEngineer/MACHINIST-X99ZV102
+* Display: LG 4K 60 Hz HDR via Display Port (27UK650-W)
 
 ### Modes
 
 * Fixed SmartFAN issue after wake with Ultimate Patcher Tool
-* Unlocked turbobust for all cpu thread with S3TurboTool
+* Unlocked turbobust for all cpu threads with S3TurboTool
 * Undervolting -70/-50 cpu/cache
 * flashed by afudos
 
