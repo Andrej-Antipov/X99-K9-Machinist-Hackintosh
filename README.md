@@ -6,7 +6,7 @@ EFI Clover and OpenCore Folders and Workaround for Darkwake issue on X99 K9 Mach
 * MB: X99 K9 v2 Machinist
 * Chipset: C216
 * RAM: 4x8Gb DDR4 2666 Crucial Desktop
-* GPU: Radeon RX 560 Sapphire Pulse 4Gb
+* GPU: Radeon RX 560 Sapphire Pulse 4Gb (removed)
 * GPU: Radeon RX6600 PowerColor Fighter 8Gb
 * SSD: 512Gb Kingstone KC2500 NVME M2
 * SSD: 256Gb Kingspec NE-256 SATA M2
