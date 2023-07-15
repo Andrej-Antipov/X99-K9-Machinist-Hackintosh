@@ -3,11 +3,10 @@ EFI Clover and OpenCore Folders and Workaround for Darkwake issue on X99 K9 Mach
 
 ## Hardware configuration:
 * CPU: E5-2666v3 Haswell-EP
-* MB: X99 K9 v2 Machinist
+* MB: X99 K9 v2 Machinist (2021)
 * Chipset: C612
 * RAM: 4x8Gb DDR4 2666 Crucial Desktop
-* GPU: Radeon RX 560 Sapphire Pulse 4Gb or
-* GPU: Radeon RX6600 PowerColor Fighter 8Gb
+* GPU: Radeon RX 560 Sapphire Pulse 4Gb 
 * SSD: 512Gb Kingstone KC2500 NVME M2
 * SSD: 256Gb Kingspec NE-256 SATA M2
 * HDD: 1Tb Hitachi 3.5" 7200 SATA
@@ -29,7 +28,9 @@ EFI Clover and OpenCore Folders and Workaround for Darkwake issue on X99 K9 Mach
 
 ### Mac OS Big Sur, Monterey and Ventura EFI loaders.
 
-* All mac os futures are working including DRM playback and sleep/wake S3, hdmi sound, FileVault2.
+* All mac os futures are working including DRM playback,sleep/wake S3, hdmi sound, FileVault2. 
 * Darkwake HID issue fixed with WakeUpScr applet. 
-* Monterey and Ventura Bluetooth wake issue fixed with WakeUpScr applet.
-* Darkwake, Bluetooth, PMDrvr.kext wake issue fixed with WakeUpWithPMDrvr (PMDrvr_X99K9_ManageSet)
+* Monterey and Ventura Bluetooth wake issue fixed with WakeUpScr applet. 
+* Darkwake, Bluetooth, PMDrvr.kext wake issue fixed with WakeUpWithPMDrvr (PMDrvr_X99K9_ManageSet). Login with Apple Watch.
+
+
